@@ -69,19 +69,20 @@ body {
 
 #bloqueColumnaIzquierda {
     display: flex;
+
 } 
 
-.bloqueInternoTres > a {
-    color: black;
+.bloqueInternoTres a {
+    color:rgb(69, 111, 209);
 }
 
 .bloqueParteDos h1 {
     margin-bottom: 2vh;
 }
 
-/* h3 {
+.bloqueInternoUno h3 {
     font-weight: lighter;
-} */
+} 
 
 .bloqueInternoDos {
     margin: 3vh 0;
@@ -103,7 +104,7 @@ body {
 .bloqueTarjeta {
     margin-top: 5vh;
     position: relative;
-    width: 50vw;
+    width: 30vw;
 }
 
 .iconoUno{
@@ -125,7 +126,7 @@ body {
 }
 
 .bloqueInternoDos span {
-    font-size: 1.17em;
+    font-size: 1.17rem;
 }
 
 .bloqueInternoTres span {
